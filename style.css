@@ -1,0 +1,47 @@
+body{
+    background-image: url(bg-1.jpg);
+    background-size: cover;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 50px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+h1{
+    margin-top: 10vh;
+    margin-bottom: 5px;
+}
+
+h2{
+    font-size: 100px;
+    margin-bottom: 5px;
+}
+
+button{
+    border: none;
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    height: 50px;
+    font-size: 20px;
+}
+
+#increment-btn{
+    background-color:forestgreen;
+}
+#decrement-btn{
+    background-color: brown;
+}
+#save-btn{
+    background-color: dodgerblue;
+}
+
+p{
+    font-size: 25px;
+}
+
+#clear-btn{
+    background-color:dimgrey ;
+}
